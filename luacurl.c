@@ -1,5 +1,5 @@
 /* luacurl.c
- *
+ *1
  * author      : Alexander Marinov (alekmarinov@gmail.com)
  * project     : luacurl
  * description : Binds libCURL to Lua
